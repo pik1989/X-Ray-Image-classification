@@ -12,6 +12,6 @@ Vision Transformer (ViT) emerged as a competitive alternative to convolutional n
 
 | Model               |      Parameters Trained      |  Accuracy |
 |---------------------|:----------------------------:|----------:|
-|      CNN 2D         |          left-aligned        |    72     |
-| Pre-Trained - VGG16 |            centered          |    91.4   |
-| Vision Transformer  |         right-aligned        |    72     |
+|      CNN 2D         |             2,008,193        |    72     |
+| Pre-Trained - VGG16 |           15,935,809         |    91.4   |
+| Vision Transformer  |         85,842,179           |    72     |
